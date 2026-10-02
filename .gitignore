@@ -1,0 +1,22 @@
+# Java / Spring Boot
+target/
+*.class
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
